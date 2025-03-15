@@ -1,0 +1,30 @@
+magic
+tech ihp-sg13g2
+magscale 1 2
+timestamp 1741993200
+<< checkpaint >>
+rect 0 0 2184 480
+<< ptap >>
+rect -126 -40 126 40
+rect 2058 -40 2310 40
+rect -126 40 126 120
+rect 2058 40 2310 120
+rect -126 120 2310 200
+rect -126 200 2310 280
+rect -126 280 2310 360
+<< metal1 >>
+rect -126 -40 126 40
+rect 2058 -40 2310 40
+rect -126 40 126 120
+rect 2058 40 2310 120
+rect -126 120 2310 200
+rect -126 200 2310 280
+rect -126 280 2310 360
+<< ptapc >>
+rect 210 200 1974 280
+<< pwell >>
+rect -126 -40 2310 520
+<< labels >>
+<< properties >>
+string FIXED_BBOX 0 0 2184 480
+<< end >>
