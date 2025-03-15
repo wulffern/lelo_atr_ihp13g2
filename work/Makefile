@@ -14,6 +14,6 @@ LIB=LELO_ATR_IHP13G2
 CELL=LELO_ATR
 
 #- Provide cells you want to check for the lvsall drcall commands
-CELLS = LELO_ATR
+CELLS= PCH_2CTOP PCH_4CTOP PCH_8CTOP PCH_12CTOP NCH_2CTOP NCH_4CTOP NCH_8CTOP NCH_12CTOP
 
 include ../tech/make/core.make
